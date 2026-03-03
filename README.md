@@ -108,7 +108,7 @@ polar-compression/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/polar-compression.git
+git clone https://github.com/riccardobrivio-ing/polar-compression.git
 cd polar-compression
 
 # 2. Create virtual environment (recommended)
